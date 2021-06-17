@@ -1,0 +1,13 @@
+.item {
+    background-color: white;
+    color: black;
+    border-radius: 4px;
+    border: solid 1px #D05385;
+    margin-bottom: 16px;
+    cursor: pointer;
+    box-shadow: none;
+}
+
+:host {
+    display: block;
+}
